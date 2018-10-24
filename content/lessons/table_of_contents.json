@@ -2,60 +2,19 @@
   "id": "table-of-contents",
   "chapters": [
     {
-      "title": "Nav Design System",
-      "chapters": [
-        {
-          "title": "Brand",
-          "entries": [
-            {
-              "entry": "./lesson_one.md"
-            },
-            {
-              "entry": "./nav_brand_book.md"
-            }
-          ],
-          "chapters": [
-            {
-              "title": "1.1.1 Sub-subchapter",
-              "entries": [
-                {
-                  "entry": "./voice.md"
-                },
-                {
-                  "entry": "./lesson_three.md"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Marketing",
-          "entries": [
-            {
-              "entry": "./lesson_four.md"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "2. Main Chapter",
-      "chapters": [
-        {
-          "title": "Product",
-          "entries": [
-            {
-              "entry": "./lesson_five.md"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "3. Main Chapter",
+      "title": "Brand",
       "entries": [
         {
-          "entry": "./lesson_six.md"
+          "entry": "./lesson_one.md"
+        },
+        {
+          "entry": "./nav_brand_book.md"
+        },
+        {
+          "entry": "./voice.md"
+        },
+        {
+          "entry": "./lesson_three.md"
         }
       ]
     }

@@ -7,7 +7,7 @@ title: "Nav Brand Book"
 This is intended as a quick reference and showcase for the Nav Brand Guidelines. If you want to download the latest
 
 
-##### Table of Contents
+### Table of Contents
 ###### Brand Overview
 * [Brand Story](#story)
 * [Our Purpose](#purpose)

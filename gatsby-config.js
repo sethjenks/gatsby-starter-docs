@@ -11,7 +11,7 @@ module.exports = {
       feed_url: config.siteUrl + pathPrefix + config.siteRss,
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${config.siteUrl + pathPrefix}/logos/logo-512.png`,
+      image_url: `${config.siteUrl + pathPrefix}/logos/logo-512x193.svg`,
       author: config.userName,
       copyright: config.copyright
     }
@@ -80,14 +80,14 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "/logos/logo-192x192.png",
-            sizes: "192x192",
-            type: "image/png"
+            src: "/logos/logo-192x73.svg",
+            sizes: "192x73",
+            type: "image/svg"
           },
           {
-            src: "/logos/logo-512x512.png",
-            sizes: "512x512",
-            type: "image/png"
+            src: "/logos/logo-512x193.svg",
+            sizes: "512x193",
+            type: "image/svg"
           }
         ]
       }
