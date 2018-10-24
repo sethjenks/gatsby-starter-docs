@@ -1,18 +1,18 @@
 const theme = {
   // named colors:
-  brand: '#41B883',
-  accent: '#0a5eb7',
+  brand: '#444751',
+  accent: '#75777C',
   accentDark: '#35495E',
-  lightGrey: '#F6F6F6',
-  darkGrey: '#91a2a3',
-  ink: 'black',
-  errorRed: '#FF6666',
-  codeEditBlue: '#2973b7',
-  codeEditGreen: '#42b983',
+  lightGrey: '#F5F6F7',
+  darkGrey: '#919499',
+  ink: '#444751',
+  errorRed: '#E56262',
+  codeEditBlue: '#647C91',
+  codeEditGreen: '#4CB68F',
 
   // content width:
-  contentWidthLaptop: '850px',
-  sitePadding: '25px'
+  contentWidthLaptop: '696px',
+  sitePadding: '32px'
 }
 
 export default theme
