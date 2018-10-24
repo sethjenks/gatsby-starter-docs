@@ -3,7 +3,7 @@ module.exports = {
   lessonsDir: "docs", // The name of the directory that contains lessons or docs.
   siteTitle: "Nav Design System", // Site title.
   siteTitleAlt: "Documentation for All", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-512x193.svg", // Logo used for SEO and manifest.
+  siteLogo: "/logos/logo-512x193.png", // Logo used for SEO and manifest.
   siteUrl: "https://ericwindmill.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "A place for all to marvel at our beauty", // Website description used for RSS feeds/meta description tag.

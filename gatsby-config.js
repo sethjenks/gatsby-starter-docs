@@ -80,14 +80,14 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "/logos/logo-192x73.svg",
+            src: "/logos/logo-192x73.png",
             sizes: "192x73",
-            type: "image/svg"
+            type: "image/png"
           },
           {
-            src: "/logos/logo-512x193.svg",
+            src: "/logos/logo-512x193.png",
             sizes: "512x193",
-            type: "image/svg"
+            type: "image/png"
           }
         ]
       }
