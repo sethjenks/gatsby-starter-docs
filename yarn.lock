@@ -5169,6 +5169,16 @@ gatsby-remark-responsive-iframe@^1.4.2:
     lodash "^4.17.4"
     unist-util-visit "^1.1.1"
 
+gatsby-remark-responsive-image@^1.0.0-alpha13-alpha.435e0178:
+  version "1.0.0-alpha13-alpha.435e0178"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-responsive-image/-/gatsby-remark-responsive-image-1.0.0-alpha13-alpha.435e0178.tgz#dc6d2995de371d86ef279a2f444efd46133f70ca"
+  integrity sha1-3G0pld43HYbvJ5ovRE79RhM/cMo=
+  dependencies:
+    image-size "^0.5.1"
+    is-relative-url "^2.0.0"
+    lodash "^4.17.4"
+    unist-util-select "^1.5.0"
+
 gatsby-source-filesystem@^1.4.2:
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-1.4.2.tgz#f87aa6e0679b51898b08d72e5e02cafe7a99599f"
