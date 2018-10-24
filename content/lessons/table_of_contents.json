@@ -9,6 +9,9 @@
           "entries": [
             {
               "entry": "./lesson_one.md"
+            },
+            {
+              "entry": "./nav_brand_book.md"
             }
           ],
           "chapters": [
