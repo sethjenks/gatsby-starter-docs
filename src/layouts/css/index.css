@@ -34,6 +34,7 @@ body,
 p, a,
 li, ul {
     font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+    line-height: 2.8rem;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, dl {
