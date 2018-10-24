@@ -13,7 +13,7 @@ const NavContainer = styled.div`
     font-size: 1.6rem;
     margin-right: 16px;
     font-weight: 400;
-    color: #fff;
+    color: #0091ea;
   }
 
   @media screen and (max-width: 600px) {
@@ -22,7 +22,7 @@ const NavContainer = styled.div`
     align-items: center;
 
     section {
-      margin-bottom: 20px;
+      margin-bottom: 24px;
     }
 
     span {
@@ -38,15 +38,15 @@ class Navigation extends React.Component {
         <section>
           <Link className="nav-link" to="/">
             {' '}
-            HOME{' '}
+            Home{' '}
           </Link>
           <Link className="nav-link" to="/lesson-one">
             {' '}
-            DOCS{' '}
+            Docs{' '}
           </Link>
           <Link className="nav-link" to="/about">
             {' '}
-            ABOUT{' '}
+            About{' '}
           </Link>
         </section>
         <span>

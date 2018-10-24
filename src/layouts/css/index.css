@@ -20,6 +20,8 @@ table, th, td {
 ***********/
 html {
     font-size: 10px;
+    background-color: #F5F6F7;
+    color: #444751;
 }
 
 
@@ -62,5 +64,5 @@ a {
     text-decoration: none;
 }
 a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #0091ea;
 }
