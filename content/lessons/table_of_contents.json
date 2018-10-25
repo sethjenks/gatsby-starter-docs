@@ -5,16 +5,13 @@
       "title": "Brand",
       "entries": [
         {
-          "entry": "./lesson_one.md"
-        },
-        {
           "entry": "./nav_brand_book.md"
         },
         {
           "entry": "./voice.md"
         },
         {
-          "entry": "./lesson_three.md"
+          "entry": "./brand_positioning.md"
         }
       ]
     }

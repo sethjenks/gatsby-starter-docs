@@ -1,404 +1,159 @@
 ---
 title: "Voice"
 ---
+<a name="top"/>
 
+### Table of Contents
+* [Who is Nav?](#who-is-nav)
+* [Our Voice and Tone](#voice-tone)
+* [Nav Jargon (How we say things)](#jargon)
+* [Style Usage](#usage)
 
-# NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.
+<a name="who-is-nav"/>
 
+[Back to top](#top)
 
-This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+##Who is Nav?
+#####Nav is uncomplicated, modern, credible and committed.
 
-This cheatsheet is specifically *Markdown Here's* version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a *Markdown Here* email, but it should be pretty close.
+The word root “nav” evokes both imagery and meaning around navigation, direction, progress, and exploration. We do not have to state or impart any of these meanings (i.e, We use the word “navigate” sparingly).
 
-You can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).
+Nav is experiential, using proven methods by those who have lived it through real-world trial and error. And thus, nav is authentic and specific in our writing, avoiding generalities when possible.
 
-(If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)
+In an industry that seems to enjoy talking to itself with ever increasing complexity, Nav simplifies. Nav synthesizes data into a straight, clear path forward.
 
-##### Table of Contents
+<a name="voice-tone"/>
 
-* [Headers](#headers)
-* [Emphasis](#emphasis)
-* [Lists](#lists)
-* [Links](#links)
-* [Images](#images)
-* [Code and Syntax Highlighting](#code)
-* [Tables](#tables)
-* [Blockquotes](#blockquotes)
-* [Inline HTML](#html)
-* [Horizontal Rule](#hr)
-* [Line Breaks](#lines)
-* [YouTube Videos](#videos)
+[Back to top](#top)
 
-<a name="headers"/>
+##Our Voice and Tone
+####(when speaking to customers or general public, adjusted for industry events or publications as needed).
 
-## Headers
+Nav is confident, direct, optimistic and energetic.
 
-```no-highlight
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+We should speak in a way that excites small business owners to the possibilities of an easier way. We do this by using engaging, conversational language, with action verbs and humor when appropriate. Its should project a glimpse of smile.
 
-Alternatively, for H1 and H2, an underline-ish style:
+Our messaging focuses on positivity and we strive to avoid using negative emotions, like fear, guilt and anxiety to sell stuff.
 
-Alt-H1
-======
+###Customer-centric.
 
-Alt-H2
-------
-```
+#####Small business owners are short on time and typically in “survival mode.” We communicate what the benefit is for the audience and avoid cliche, fluff and limit the use of adjectives.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+It’s not about us, it’s about them — the small business owner.When communicating, we take their POV. The small business owner is the hero of the story, and we’re just the helper. We bridge the gap and guide them to their goals.
 
-Alternatively, for H1 and H2, an underline-ish style:
+We generally speak in the second person. Talk to our audience as if we’re face-to-face with them in their store, discussing topics that are on their mind. Say “you” and “your business” not “small businesses.”
 
-Alt-H1
-======
+We’re unafraid to insert our truth and opinion, even if it ruffles feathers. We earn trust this way–not by saying “we’re honest” but by consistently being confident, honest and correct in our communication.
 
-Alt-H2
-------
 
-<a name="emphasis"/>
+#####Maintaining trust and credibility should supercede being entertaining.
 
-## Emphasis
+ We can be snarky about small business financing industry–and its complexities and injustices–but should not be snarky about our audience’s lack of education.
 
-```no-highlight
-Emphasis, aka italics, with *asterisks* or _underscores_.
+ We communicate in a way that adds real value because it’s bringing something that people didn’t already know. It’s actionable and seamlessly connect to our product whenever possible.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+<a name="jargon"/>
 
-Combined emphasis with **asterisks and _underscores_**.
+[Back to top](#top)
 
-Strikethrough uses two tildes. ~~Scratch this.~~
-```
+##Nav jargon (How we say things)
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-Combined emphasis with **asterisks and _underscores_**.
+**1. It is the Customer Support team.**
+  * Not member Services, not customer services.  
+**2. We say Customer**
+   * Not Member, not subscriber
+3. We have Standard Accounts, which happen to be free.
+   * There are no accounts or customers called “freemium”.
+   * Customers on our Standard account should be told they are on our “free” account in most instances. “Standard” is Nav-speak and Free reinforces our value.
+4. We talk about paid accounts; they are Essential, Premium and Premium Plus
+   * They are not “paid plans”
+5. Nav is a platform, site, app or account.
+   * .Nav is not a subscription, membership, or service
+6. People sign up for a Nav account or download the Nav app.
+  a.They do not “join” or “subscribe”
+7. Nav’s marketplace provides financing options (or products, or loans, or credit cards, etc.) that users can browse and apply for.
+  a.Nav’s marketplace does NOT provide financing OFFERS.
+8. Nav PARTNERS with financial institutions (or lenders, credit cards, brokers, banks, etc.) and business services providers.
+  a.Nav is NOT a lender.
+  b.Nav provides a marketplace for financing and business services.
+9. Nav is not a credit bureau or agency.
+  a.Nav is a data provider.
+10. Nav is an objective, small business advocate.
+11. Nav has tools (BusinessLauncher, CreditSweeper (Disputes), CreditTarget (Goals) that help business owners establish and build their credit profiles, and reach financial goals. These are reasons to believe (features) that Nav can deliver on our value props.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+**Free:** Nav has customers who use our free account to access their personal and business credit scores and reports, credit tools and our financing and business services marketplace.
 
+**Paid:** Nav has customers who pay for an Essential account, Premium account or Premium Plus account.
 
-<a name="lists"/>
+Nav provides a public marketplace that anyone can access for financing products, like business loans and credit cards, and business services.
 
-## Lists
+Nav provides all customers a marketplace that includes a MatchFactor algorithm that recommends business loan and credit card options based on their credit situation, business data and suitability.
 
-```no-highlight
-1. First ordered list item
-2. Another item
-  * Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-4. And another item.
 
-   Some text that should be aligned with the above item.
+<a name="usage"/>
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-```
+[Back to top](#top)
 
-1. First ordered list item
-2. Another item
+##Style Usage
 
-   * Unordered sub-list.
+####Personal credit language restrictions.
+- **CAN NOT** say we “help improve or manage”. We can be creative though. Make a statement of fact (e.g., Regularly monitoring your credit can help you increase your scores.).
 
-1. Actual numbers don't matter, just that it's a number
+- **CAN NOT** say we “repair or fix” credit.
 
-   1. Ordered sub-list
+See the [personal credit language guide](https://docs.google.com/document/d/1n5r-8uCcVN1JMWlvE14aFFqqFF_VZtmVCz3C_73vOG8/edit) for more details.
 
-4. And another item.
+- Business credit language has no restrictions. Use common sense and use branding document guide and above voice and tone.
 
-   Some text that should be aligned with the above item.
+- Nav is capitalized as proper noun in all copy.
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
+- No questions in headlines (for site and most ad copy). Articulate the benefit—don’t make the reader stop to think and figure it out.
 
-<a name="links"/>
+- Business owners is okay to use in place of “small” business owners.
 
-## Links
+- Small business is not hyphenated.
 
-There are two ways to create links.
+- Use em dash "—" (keystroke: option & shift & dash) Never double hyphens "--"
 
-```no-highlight
-[I'm an inline-style link](https://www.google.com)
+- Sentence capitalization style. Except for Headlines.
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+####Editorial Style Rules for Reporting Agencies
 
-[You can use numbers for reference-style link definitions][1]
 
-Or leave it empty and use the [link text itself]
+#####Dun & Bradstreet
+- Dun & Bradstreet instead of D&B. You may write “D&B” after first establishing the full name in the copy.
+- Always use “D&B” not “DNB” or “DnB”
+- D&B PAYDEX ® for the first mention of the score, then D&B PAYDEX or PAYDEX after
+- D-U-N-S® Number — Uppercase and hyphenated “D-U-N-S” and uppercase on “Number.”
+Use full name with “®” on first mention, then “D-U-N-S Number” after. Not “DUNS Number” or “D-U-N-S number”
+______
 
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
+#####Experian
+______
+#####FICO
+______
 
-Some text to show that the reference links can follow later.
+#####TransUnion
+- Do not use the following terms, “Improve”, “enhance”, “boost”, “raise”, and “increase”  **_in the same phrase as_** “score” or “rating”.
+- Do not use the phrases “Credit repair”, “credit rebuilding”, “credit fix”, “repair your credit”, “fix your credit”, or nominations of those words.
+- Do not use the terms “advice”, “tips”, “suggestions” or “instructions” **_in the same phrase as_** “improving”, “enhancing”, “boosting”, “raising” or “increasing” a credit score or credit rating.
+- When making a statement about the performance of analytic tools available on Nav’s site (e.g., a score simulator), marking and advertising materials **must not suggest** that a simulated score is “always” (or its equivalent) predictive of one’s actual score.
+______
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-```
+####Editorial Style Rules for Credit Card Issuers
+#####Chase
+**Last Calls:** Publishers should not post or promote in advance the end date of a credit card sign-up bonus unless this information is publicly posted or announced by Chase. Articles or other language promoting “Last call” or “Last chance” are not permitted.
 
-[I'm an inline-style link](https://www.google.com)
+**Best Practice:** Best practice is to mark an expired offer as expired. Mentioning the date an expired offer ended is allowed. Don’t forget to remove affiliate links from the expired offer!
+______
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+#####American Express
+______
 
-[You can use numbers for reference-style link definitions][1]
+#####Bank of America
+______
 
-Or leave it empty and use the [link text itself]
-
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<a name="images"/>
-
-## Images
-
-```no-highlight
-Here's our logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-```
-
-Here's our logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-<a name="code"/>
-
-## Code and Syntax Highlighting
-
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
-
-```no-highlight
-Inline `code` has `back-ticks around` it.
-```
-
-Inline `code` has `back-ticks around` it.
-
-Blocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks -- they're easier and only they support syntax highlighting.
-
-<pre lang="no-highlight"><code>```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
-```
-</code></pre>
-
-
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting in Markdown Here (varies on Github).
-But let's throw in a <b>tag</b>.
-```
-
-Again, to see what languages are available for highlighting, and how to write those language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
-
-<a name="tables"/>
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but they are part of GFM and *Markdown Here* supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.
-
-```no-highlight
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-```
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<a name="blockquotes"/>
-
-## Blockquotes
-
-```no-highlight
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-```
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
-
-<a name="html"/>
-
-## Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-```no-highlight
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-```
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-<a name="hr"/>
-
-## Horizontal Rule
-
-```
-Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
-```
-
-Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
-
-<a name="lines"/>
-
-## Line Breaks
-
-My basic recommendation for learning how line breaks work is to experiment and discover -- hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. "Markdown Toggle" is your friend.
-
-Here are some things to try out:
-
-```
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
-```
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also begins a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
-
-(Technical note: *Markdown Here* uses GFM line breaks, so there's no need to use MD's two-space line breaks.)
-
-<a name="videos"/>
-
-## YouTube Videos
-
-They can't be added directly but you can add an image with a link to the video like this:
-
-```no-highlight
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8AkLfYOgIrE
-" target="_blank"><img src="http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-```
-
-Or, in pure Markdown, but losing the image sizing and border:
-
-```no-highlight
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-```
+#####Capital One
+______

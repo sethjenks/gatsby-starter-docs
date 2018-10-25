@@ -1,5 +1,5 @@
 ---
-title: "Nav Brand Book"
+title: "Nav brand book"
 ---
 
 ####Version 1.0
@@ -89,8 +89,22 @@ We simplify the complex into understandable and actionable advice. We avoid jarg
 <a name="voice-tone"/>
 
 ## Voice and Tone
+Nav is confident, direct, optimistic and energetic. We should speak in a way that excites small business owners to the possibilities of an easier way. We do this by using engaging, conversational language, with action verbs and humor when appropriate. It should project a glimpse of smile. Our messaging focuses on positivity and we strive to avoid using negative emotions, like fear, guilt and anxiety to sell stuff.
+
 ####Customercentric
 It’s not about us — we make the small business owner feel like a hero. We do this by respecting their time, avoiding fluff and communicating benefits that bring them closer to their highest goals.
+
+Small business owners are short on time and typically in “survival mode.” We communicate what the benefit is for the audience and avoid cliche, fluff and limit the use of adjectives.
+
+It’s not about us, it’s about them—the small business owner. When communicating, we take their POV. The small business owner is the hero of the story, and we’re just the helper. We bridge the gap and guide them to their goals.
+
+We generally speak in the second person. Talk to our audience as if we’re face-to-face with them in their store, discussing topics that are on their mind. Say “you” and “your business” not “small businesses.
+
+”We’re unafraid to insert our truth and opinion, even if it ruffles feathers. We earn trust this way–not by saying “we’re honest” but by consistently being confident, honest and correct in our communication.
+
+Maintaining trust and credibility should supercede being entertaining.We can be snarky about small business financing industry–and its complexities and injustices–but should not be snarky about our audience’s lack of education.
+
+We communicate in a way that adds real value because it’s bringing something that people didn’t already know. It’s actionable and seamlessly connect to our product whenever possible.
 ______
 
 ####Energetic
