@@ -11,7 +11,6 @@ title: "Voice"
 
 <a name="who-is-nav"/>
 
-[Back to top](#top)
 
 ##Who is Nav?
 #####Nav is uncomplicated, modern, credible and committed.

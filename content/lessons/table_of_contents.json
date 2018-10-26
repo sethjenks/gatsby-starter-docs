@@ -5,6 +5,60 @@
       "title": "Brand",
       "entries": [
         {
+          "entry": "./overview.md"
+        },
+        {
+          "entry": "./nav_brand_book.md"
+        },
+        {
+          "entry": "./voice.md"
+        },
+        {
+          "entry": "./brand_positioning.md"
+        }
+      ]
+    },
+    {
+      "title": "Marketing",
+      "entries": [
+        {
+          "entry": "./overview.md"
+        },
+        {
+          "entry": "./nav_brand_book.md"
+        },
+        {
+          "entry": "./voice.md"
+        },
+        {
+          "entry": "./brand_positioning.md"
+        }
+      ]
+    },
+    {
+      "title": "Product",
+      "entries": [
+        {
+          "entry": "./product/foundations/acccessibility.md"
+        },
+        {
+          "entry": "./nav_brand_book.md"
+        },
+        {
+          "entry": "./voice.md"
+        },
+        {
+          "entry": "./brand_positioning.md"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "entries": [
+        {
+          "entry": "./overview.md"
+        },
+        {
           "entry": "./nav_brand_book.md"
         },
         {
